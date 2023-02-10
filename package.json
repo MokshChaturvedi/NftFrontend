@@ -1,0 +1,67 @@
+{
+  "name": "cardano-nft-marketplace",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/react": "^11.10.4",
+    "@emotion/styled": "^11.10.4",
+    "@madzadev/audio-player": "^1.1.11",
+    "@mui/icons-material": "^5.10.6",
+    "@mui/material": "^5.10.7",
+    "@mui/styled-engine-sc": "^5.10.6",
+    "@mui/x-date-pickers": "^5.0.3",
+    "@reduxjs/toolkit": "^1.8.2",
+    "@testing-library/jest-dom": "^5.16.4",
+    "@testing-library/react": "^13.3.0",
+    "@testing-library/user-event": "^13.5.0",
+    "axios": "^0.27.2",
+    "clsx": "^1.2.1",
+    "copy-to-clipboard": "^3.3.2",
+    "date-fns": "^2.28.0",
+    "jquery": "^3.6.1",
+    "moment": "^2.29.4",
+    "qrcode.react": "^3.1.0",
+    "react": "^17.0.2",
+    "react-countdown": "^2.3.2",
+    "react-date-countdown-timer": "^1.1.0",
+    "react-dom": "^17.0.2",
+    "react-h5-audio-player": "^3.8.4",
+    "react-multi-carousel": "^2.8.1",
+    "react-owl-carousel": "^2.3.3",
+    "react-redux": "^8.0.2",
+    "react-responsive-carousel": "^3.2.23",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "5.0.1",
+    "react-simple-image-slider": "^2.4.1",
+    "react-switch": "^7.0.0",
+    "react-toastify": "^9.0.5",
+    "react-uuid": "^2.0.0",
+    "styled-components": "^5.3.6",
+    "uuid": "^9.0.0",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
